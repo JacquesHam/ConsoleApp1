@@ -18,17 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "clsMaClasse.cs",
               "DocumentMoniker": "C:\\Users\\JacquesHamel\\source\\repos\\ConsoleApp1\\clsMaClasse.cs",
               "RelativeDocumentMoniker": "clsMaClasse.cs",
-              "ToolTip": "C:\\Users\\JacquesHamel\\source\\repos\\ConsoleApp1\\clsMaClasse.cs*",
-              "RelativeToolTip": "clsMaClasse.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\JacquesHamel\\source\\repos\\ConsoleApp1\\clsMaClasse.cs",
+              "RelativeToolTip": "clsMaClasse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T14:27:07.708Z",
               "EditorCaption": ""
@@ -41,7 +53,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\JacquesHamel\\source\\repos\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T14:24:43.636Z",
               "EditorCaption": ""
