@@ -8,4 +8,6 @@ macls.AfficherMessage();
 clsMaClasse maclsss = new clsMaClasse("Initialisation on the fly");
 maclsss.AfficherMessage();
 
+macls.AfficheUnNombre(100);
+
 Console.ReadKey();

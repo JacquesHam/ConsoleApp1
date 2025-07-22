@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# === Règles personnalisées ===
+*.suo
+/DocumentLayout.json
+*.dll
+*.pdb
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.exe

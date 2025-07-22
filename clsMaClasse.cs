@@ -34,6 +34,11 @@ namespace ConsoleApp1
         {
             message += message;
         }
+
+        public void AfficheUnNombre(int nb)
+        {
+            Console.WriteLine("Le nombre est " +  nb);
+        }
         
     }
 }
