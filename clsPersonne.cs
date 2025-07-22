@@ -17,5 +17,13 @@ namespace ConsoleApp1
             this.prenom = string.Empty;
             this.ville = string.Empty;
         }
+        public clsPersonne(string nom, string prenom, string ville)
+        {
+            this.nom = nom;
+            this.prenom = prenom;
+            this.ville = ville;
+        }
+        public string AssemblePersonne()
+        { return this.prenom + " " +  this.nom + " viens de " + this.ville;}
     }
 }

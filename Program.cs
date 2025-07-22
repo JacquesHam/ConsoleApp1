@@ -8,4 +8,7 @@ macls.AfficherMessage();
 clsMaClasse maclsss = new clsMaClasse("Initialisation on the fly");
 maclsss.AfficherMessage();
 
+clsPersonne personne = new clsPersonne("Guerre", "Martin", "Marseille");
+Console.WriteLine(personne.AssemblePersonne());
+
 Console.ReadKey();
