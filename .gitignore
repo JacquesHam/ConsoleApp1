@@ -365,3 +365,12 @@ FodyWeavers.xsd
 /obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
 /obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
 /.vs/ConsoleApp1/v17/.suo
+
+*.suo
+*.cache
+*.dtbcache.*
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+.vs/
+obj/
+bin/
