@@ -370,3 +370,4 @@ FodyWeavers.xsd
 *.AssemblyInfo.cs
 *.AssemblyInfoInputs.cache
 *.exe
+git push
