@@ -4,6 +4,7 @@ using ConsoleApp1;
 Console.WriteLine("Hello, World!");
 clsMaClasse macls = new clsMaClasse();
 macls.AfficherMessage();
+macls.DoublerMessage();
 
 clsMaClasse maclsss = new clsMaClasse("Initialisation on the fly");
 maclsss.AfficherMessage();
