@@ -30,9 +30,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Message : " + message);
         }
-        private void DoublerMessage()
+        public void DoublerMessage()
         {
             message += message;
+            Console.WriteLine("Message : " + message);
         }
         
     }
